@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentList>
+    <student>
+        <grade>9</grade>
+        <groupschool>A</groupschool>
+        <id>1</id>
+        <name>Ocote</name>
+    </student>
+    <student>
+        <grade>-1</grade>
+        <groupschool>A</groupschool>
+        <id>2</id>
+        <name>Ojavio</name>
+    </student>
+</studentList>
